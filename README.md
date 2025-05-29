@@ -1,5 +1,5 @@
 # Simple Calculator 
-A calculator with basic operations made using Kotlin
+A calculator with basic operations developed in Android Studio using Kotlin.
 
 ## Preview
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">

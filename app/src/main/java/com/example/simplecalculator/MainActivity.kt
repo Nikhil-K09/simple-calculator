@@ -83,6 +83,9 @@ class MainActivity : AppCompatActivity() {
                 if(operator=='-'){
                     result-=nextDigit
                 }
+                if(operator=='%'){
+                    result%=nextDigit
+                }
             }
         }
         return result
